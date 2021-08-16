@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/@gamersready" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gamersready" height="30" width="40" /></a>
 <a href="https://instagram.com/finx09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="finx09" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/finx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="finx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/youtube.com/finx09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/finx09" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/muNevWY3nq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/muNevWY3nq" height="30" width="40" /></a>
 </p>
 
